@@ -1,4 +1,3 @@
 # hello-world
-I am a 007er. Nice to meet you.
-
-I like writing,reading,English learning.
+Hello Guys!
+I'm a Chinese and I am working in Beijing.
